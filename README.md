@@ -1,4 +1,4 @@
-# TO-DO-list-project
+
 # To-Do List Application
 
 A simpleTo-Do list application that allows users to add, mark, and delete tasks. The app uses `localStorage` to save tasks, ensuring they persist across browser sessions.
